@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
                     title = "Kotlin is so amazing!",
                     content = "Today we will learn about ListView",
                     time = "08:00 AM",
-                    logoPath = "",
+                    logoPath = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpgddttieucan.edu.vn%2Ftoan-bo-44-anh-anime-chibi-one-piece-moi-suu-tap-thang-9-2022%2F&psig=AOvVaw1n9PCLtPkhrOSgFRkxGjHm&ust=1698937940891000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiJ9JWLo4IDFQAAAAAdAAAAABAJ",
                     isMark = false
                 )
             )
